@@ -1,0 +1,3 @@
+graft xiafu_publish
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  xiafu_publish/jupy *
