@@ -13,4 +13,5 @@ setup(name='xiafu_publish',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
       scripts=['scripts/xiafu_publish-run'],
-      zip_safe=False)
+      zip_safe=False,
+      install_requires=requirements)
