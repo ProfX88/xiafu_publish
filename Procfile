@@ -1,2 +1,2 @@
 
-web: pip install . -U && xiafu-publish-run
+web: pip install . -U && xiafu_publish-run
